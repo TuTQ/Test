@@ -4,4 +4,9 @@ dev 3
 
 dev 2
 
+<<<<<<< HEAD
 dev 3_2
+=======
+dev 2_2
+
+>>>>>>> refs/remotes/origin/master
