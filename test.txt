@@ -1,7 +1,6 @@
 123
 
-<<<<<<< HEAD
 dev 3
-=======
+
 dev 2
->>>>>>> refs/remotes/origin/master
+
